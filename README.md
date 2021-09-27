@@ -34,5 +34,7 @@
   öffenen http://localhost:8887/drive:
   Model&hat Pilot -> Local Pilot
   
-
+## Training auf Google Collab
+  - https://colab.research.google.com/github/robocarstore/donkey-car-training-on-google-colab/blob/master/Donkey_Car_Training_using_Google_Colab.ipynb#scrollTo=dnUy1Z1zro77
+  - Trainierte Model läuft nicht local auf Grund unterschiedliche tensorflow versionen
   
